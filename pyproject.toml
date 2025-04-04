@@ -6,7 +6,13 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.13.3",
+    "google-generativeai>=0.8.4",
+    "matplotlib>=3.10.1",
+    "networkx>=3.4.2",
+    "python-dotenv>=1.1.0",
+    "python-louvain>=0.16",
     "requests>=2.32.3",
+    "scikit-learn>=1.6.1",
 ]
 
 [dependency-groups]
